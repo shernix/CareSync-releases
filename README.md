@@ -18,9 +18,9 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/shernix/CareSync-releases/releases/latest/download/CareSync-macOS.dmg"><img alt="Download for Mac" src="https://img.shields.io/badge/%E2%AC%87%20%20Download%20for%20Mac-6c63d9?style=for-the-badge&logo=apple&logoColor=white" height="44"></a>
+  <a href="https://github.com/shernix/CareSync-releases/releases/latest/download/CareSync-macOS.dmg"><img alt="Download for Mac" src="assets/download-mac.svg" width="280"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/shernix/CareSync-releases/releases/latest/download/CareSync-Windows-Setup.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/%E2%AC%87%20%20Download%20for%20Windows-1fc98e?style=for-the-badge" height="44"></a>
+  <a href="https://github.com/shernix/CareSync-releases/releases/latest/download/CareSync-Windows-Setup.exe"><img alt="Download for Windows" src="assets/download-windows.svg" width="280"></a>
 </p>
 
 <p align="center">
