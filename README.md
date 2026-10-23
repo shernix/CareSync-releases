@@ -65,9 +65,11 @@ If your computer doesn't have Microsoft Edge WebView2 (it's built into Windows 1
 
 ## Get started
 
-1. **Create your account.** The first screen asks for a username, email and password. Each person in the practice creates their own account on the same computer.
-2. **Add patients.** New patients are visible only to you. To share one, open the patient and choose **All users** or **Specific users** in its **Access** section.
-3. **Keep your password safe.** CareSync works offline, so there is no email reset. A forgotten password can't be recovered.
+1. **Create the first account.** The first screen asks for a username, email and password. The first account is the practice's **administrator**.
+2. **Add the rest of the team.** Each person starts CareSync on the same computer, opens the **Request account** tab, fills it in and clicks **Send request**. The administrator approves each request on the **Users** page, and can make other people administrators too.
+3. **Set up the practice.** Administrators add the practice's doctors on the **Providers** page, and review what CareSync tracks on the **Compliance Rules** page, including the preventive care rules, which start switched off.
+4. **Add patients.** New patients are visible only to you. To share one, open the patient and choose **All users** or **Specific users** in its **Access** section.
+5. **Keep your password safe.** CareSync works offline, so there is no email reset. If you forget your password, an administrator can set a new one for you.
 
 ## Try it with sample patients
 
@@ -131,5 +133,7 @@ Accounts aren't part of backups, so each person creates their account again. On 
 <summary><b>I forgot my password.</b></summary>
 <br>
 
-It can't be reset, because CareSync has no online account system. Create a new account and ask the owners of shared patients to share them with you again. Patients that were set to "Only me" under the old account stay private to it.
+Ask an administrator. On the **Users** page they can set a new password for your account, and you keep all your patients. You can then change it to one only you know in **Account settings**.
+
+If the only administrator forgets their password, nobody can reset it, because CareSync has no online account system. Making a second person an administrator avoids this.
 </details>
