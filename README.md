@@ -69,6 +69,16 @@ If your computer doesn't have Microsoft Edge WebView2 (it's built into Windows 1
 2. **Add patients.** New patients are visible only to you. To share one, open the patient and choose **All users** or **Specific users** in its **Access** section.
 3. **Keep your password safe.** CareSync works offline, so there is no email reset. A forgotten password can't be recovered.
 
+## Try it with sample patients
+
+Want to see CareSync with data before adding your own? Download **[CareSync-Sample-Patients.json](https://github.com/shernix/CareSync-releases/releases/latest/download/CareSync-Sample-Patients.json)**: 100 made-up patients and 4 providers, with diagnoses, medications and two years of visits, labs and screenings.
+
+1. In CareSync, open **Data & Backups** (the gear icon, top right).
+2. Click **Import from file** and choose the downloaded file.
+3. Choose **Add to current data**, so anything you already have is kept.
+
+Everyone in the file is fictional. Use it on a test account or a computer without real patients, so made-up records don't mix with real ones.
+
 ## Updates
 
 Open the user menu (the person icon, top right) and choose **Check for updates**. If a new version is available, click **Update now**. CareSync saves a copy of your data, installs the update and restarts.
